@@ -1,0 +1,74 @@
+[
+  {
+    "activa": false,
+    "balance": "$3,960.64",
+    "edad": 30,
+    "colorOjos": "blue",
+    "nombre": "Dawn Keith",
+    "sexo": "female",
+    "empresa": "COSMOSIS",
+    "email": "dawnkeith@cosmosis.com",
+    "telefono": "+1 (839) 437-3421",
+    "direccion": "392 Clifford Place, Fontanelle, Arizona, 2687"
+  },
+  {
+    "activa": false,
+    "balance": "$1,280.14",
+    "edad": 31,
+    "colorOjos": "green",
+    "nombre": "Bettie Eaton",
+    "sexo": "female",
+    "empresa": "COMTREK",
+    "email": "bettieeaton@comtrek.com",
+    "telefono": "+1 (861) 460-2317",
+    "direccion": "203 Allen Avenue, Elrama, North Carolina, 4453"
+  },
+  {
+    "activa": true,
+    "balance": "$2,042.37",
+    "edad": 38,
+    "colorOjos": "green",
+    "nombre": "Margie Ayala",
+    "sexo": "female",
+    "empresa": "VOIPA",
+    "email": "margieayala@voipa.com",
+    "telefono": "+1 (941) 569-2231",
+    "direccion": "111 Schroeders Avenue, Suitland, Louisiana, 7042"
+  },
+  {
+    "activa": false,
+    "balance": "$3,170.35",
+    "edad": 37,
+    "colorOjos": "blue",
+    "nombre": "Baker Townsend",
+    "sexo": "male",
+    "empresa": "EVIDENDS",
+    "email": "bakertownsend@evidends.com",
+    "telefono": "+1 (808) 500-2793",
+    "direccion": "190 Just Court, Canoochee, Alabama, 325"
+  },
+  {
+    "activa": false,
+    "balance": "$1,402.05",
+    "edad": 29,
+    "colorOjos": "blue",
+    "nombre": "Annmarie Atkinson",
+    "sexo": "female",
+    "empresa": "MEDESIGN",
+    "email": "annmarieatkinson@medesign.com",
+    "telefono": "+1 (928) 524-3812",
+    "direccion": "757 Beaumont Street, Santel, West Virginia, 3370"
+  },
+  {
+    "activa": false,
+    "balance": "$1,404.23",
+    "edad": 26,
+    "colorOjos": "blue",
+    "nombre": "Stark Jenkins",
+    "sexo": "male",
+    "empresa": "HINWAY",
+    "email": "starkjenkins@hinway.com",
+    "telefono": "+1 (943) 542-3591",
+    "direccion": "766 Cooke Court, Dunbar, Connecticut, 9512"
+  }
+]
